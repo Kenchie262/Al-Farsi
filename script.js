@@ -45,7 +45,7 @@
     yin: '',
     bel: '',
     rias: '',
-    wes: '',
+    wes: 'https://file.garden/avfrhhNmL46cQZyA/7623031566926761238-Tikdown.net.mp3',
     denji: '',
     vad: '',
     ziku: '',
