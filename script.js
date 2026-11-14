@@ -65,7 +65,7 @@
     {name:'Xia', music:MUSIC_LINKS.xia, discordId:'889161427003244635', handle:'@xia',  hall: false, banner: 'https://file.garden/avfrhhNmL46cQZyA/xia.gif', bio:''},
     {name:'Kaii', music:MUSIC_LINKS.kaii, discordId:'', handle:'@kaii', hall: false, banner: 'https://file.garden/avfrhhNmL46cQZyA/New%20Beginnings%2066.gif', bio:'kai cenat'},
     {name:'Bel', music:MUSIC_LINKS.bel, discordId:'1029425641872957500', hall: false, handle:'@bel', banner: 'https://file.garden/avfrhhNmL46cQZyA/download.gif', bio:''},
-    {name:'Wes', music:MUSIC_LINKS.wes, discordId:'1228011743175901316', hall: false, handle:'@wes', banner: 'https://file.garden/avfrhhNmL46cQZyA/lexi1.gif', bio:''},
+    {name:'Wes', music:MUSIC_LINKS.wes, discordId:'1096760314168619152', hall: false, handle:'@wes', banner: 'https://file.garden/avfrhhNmL46cQZyA/lexi1.gif', bio:''},
     {name:'Ashiro', music:MUSIC_LINKS.ashiro, discordId:'833585204135198730', hall: true, handle:'@ashiro',banner: 'https://file.garden/avfrhhNmL46cQZyA/lv_0_20251017033304.gif', bio:'Mica on top'},
     {name:'Milo', music:MUSIC_LINKS.milo, discordId:'708498824041070672', hall: false, handle:'@milo.',banner: 'https://file.garden/avfrhhNmL46cQZyA/b643c9f00659f035bcb60a065e5a7286.jpg', bio:'MILO EVERYDAY'},
     {name:'Rias', music:MUSIC_LINKS.rias, discordId:'738630835057721406', hall: false, handle:'@rias', banner: 'https://file.garden/avfrhhNmL46cQZyA/giphy_gif%20(500%C3%97281).gif', bio:''},
