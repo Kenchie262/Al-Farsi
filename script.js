@@ -42,6 +42,7 @@
     kenchie: 'https://file.garden/avfrhhNmL46cQZyA/kenchiemusic.mp3',
     ashiro: 'https://file.garden/avfrhhNmL46cQZyA/ashiromusic.mp3',    
     milo: 'https://file.garden/avfrhhNmL46cQZyA/7677069934110838024-Tikdown.net.mp3' ,
+    ryx: 'https://file.garden/avfrhhNmL46cQZyA/7670185722531368205-Tikdown.net.mp3',
     yin: '',
     bel: '',
     rias: '',
@@ -53,6 +54,7 @@
     clove: '',
     drei: '',
     kaii: 'https://file.garden/avfrhhNmL46cQZyA/7677582198068808992-Tikdown.net.mp3',
+    
   };
 
   var MEMBERS = [
@@ -63,9 +65,10 @@
     {name:'Ira', music:MUSIC_LINKS.ira, discordId:'830411307668340756', handle:'@Ira', hall: true, banner: 'https://file.garden/avfrhhNmL46cQZyA/ira.gif', bio:''},
     {name:'Yin', music:MUSIC_LINKS.yin, discordId:'1455471269712625806', handle:'@yin',  hall: false, banner: 'https://file.garden/avfrhhNmL46cQZyA/download%20(1).gif', bio:''},
     {name:'Xia', music:MUSIC_LINKS.xia, discordId:'889161427003244635', handle:'@xia',  hall: false, banner: 'https://file.garden/avfrhhNmL46cQZyA/xia.gif', bio:''},
+    {name:'Ryx', music:MUSIC_LINKS.ryx , discordId:'752544514857762857', handle:'@ryx', hall: false, banner: 'https://file.garden/avfrhhNmL46cQZyA/Lelouch%20Cc%20GIF%20%E2%80%93%20Lelouch%20Cc%20Code%20Geass%20%E2%80%93%20discover%20and%20share%20GIFs.gif', bio:'everyone uses lies, on family, on friends and society. everyone wears different faces, but is that a sin? what is one true face.'},    
     {name:'Kaii', music:MUSIC_LINKS.kaii, discordId:'', handle:'@kaii', hall: false, banner: 'https://file.garden/avfrhhNmL46cQZyA/New%20Beginnings%2066.gif', bio:'kai cenat'},
     {name:'Bel', music:MUSIC_LINKS.bel, discordId:'1029425641872957500', hall: false, handle:'@bel', banner: 'https://file.garden/avfrhhNmL46cQZyA/download.gif', bio:''},
-          {name:'Wes', music:MUSIC_LINKS.wes, discordId:'1096760314168619152', hall: false, handle:'@wes', banner: 'https://file.garden/avfrhhNmL46cQZyA/lexi1.gif', bio:'🎱'},
+    {name:'Wes', music:MUSIC_LINKS.wes, discordId:'1096760314168619152', hall: false, handle:'@wes', banner: 'https://file.garden/avfrhhNmL46cQZyA/lexi1.gif', bio:'🎱'},
     {name:'Ashiro', music:MUSIC_LINKS.ashiro, discordId:'833585204135198730', hall: true, handle:'@ashiro',banner: 'https://file.garden/avfrhhNmL46cQZyA/lv_0_20251017033304.gif', bio:'Mica on top'},
     {name:'Milo', music:MUSIC_LINKS.milo, discordId:'708498824041070672', hall: false, handle:'@milo.',banner: 'https://file.garden/avfrhhNmL46cQZyA/b643c9f00659f035bcb60a065e5a7286.jpg', bio:'MILO EVERYDAY'},
     {name:'Rias', music:MUSIC_LINKS.rias, discordId:'738630835057721406', hall: false, handle:'@rias', banner: 'https://file.garden/avfrhhNmL46cQZyA/giphy_gif%20(500%C3%97281).gif', bio:''},
